@@ -1,1 +1,1 @@
-# This is the TicTakToe game made using simple html css and js.
+# This is the TicTakToe game made using simple HTML CSS and JS.
